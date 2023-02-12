@@ -14,9 +14,9 @@
 <p>Desenvolvimento em <a href="https://www.flaticon.com/br/icones-gratis/javascript" title="javascript ícones"><img style="width:30px; heght:30px;" src="./Assets/javascript.png"></a> </p>
 
 
-<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
 
- <p>Jogo desenvolvido pelo canal no  <a href="https://www.youtube.com/watch?v=sFo_DLf4-EA">Canal do you tube</a> 📺 </p>
+
+ <p>Jogo desenvolvido pelo canal no  <a href="https://www.youtube.com/watch?v=sFo_DLf4-EA">you tube</a> 📺 </p>
 
 
 
